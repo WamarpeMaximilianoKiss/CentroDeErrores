@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentroDeErrores", "CentroDeErrores\CentroDeErrores.csproj", "{53FA947D-8C69-4290-B2AD-860E1053DA2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioReceptorEmail", "ServicioReceptorEmail\ServicioReceptorEmail.csproj", "{7199CFC3-36C1-4FD8-9B8A-9C2FC8D97810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53FA947D-8C69-4290-B2AD-860E1053DA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FA947D-8C69-4290-B2AD-860E1053DA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FA947D-8C69-4290-B2AD-860E1053DA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FA947D-8C69-4290-B2AD-860E1053DA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7199CFC3-36C1-4FD8-9B8A-9C2FC8D97810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7199CFC3-36C1-4FD8-9B8A-9C2FC8D97810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7199CFC3-36C1-4FD8-9B8A-9C2FC8D97810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7199CFC3-36C1-4FD8-9B8A-9C2FC8D97810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB02C42C-9548-4EDA-BEE1-5169ADA593ED}
+	EndGlobalSection
+EndGlobal
